@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+ICFP Programming Contest 2023 will take place between 7th and 9th of July!
+
+Stay tuned for more information.
